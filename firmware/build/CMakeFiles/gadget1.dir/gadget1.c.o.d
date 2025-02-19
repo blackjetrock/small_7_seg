@@ -96,42 +96,4 @@ CMakeFiles/gadget1.dir/gadget1.c.o: \
  /home/menadue/pico/pico-sdk/src/rp2_common/boot_bootrom_headers/include/boot/bootrom_constants.h \
  /home/menadue/pico/pico-sdk/src/rp2_common/pico_bootrom/include/pico/bootrom/lock.h \
  /home/menadue/pico/pico-sdk/src/rp2_common/hardware_boot_lock/include/hardware/boot_lock.h \
- /home/menadue/pico/pico-sdk/src/rp2_common/pico_flash/include/pico/flash.h \
- /home/menadue/pico/ajm-no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/include/f_util.h \
- /home/menadue/pico/ajm-no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/ff14a/source/ff.h \
- /home/menadue/pico/ajm-no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/ff14a/source/ffconf.h \
- /home/menadue/pico/ajm-no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/include/ff_stdio.h \
- /usr/arm-none-eabi/include/errno.h \
- /usr/arm-none-eabi/include/sys/errno.h \
- /home/menadue/pico/ajm-no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/include/my_debug.h \
- /home/menadue/pico/ajm-no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/hw_config.h \
- /home/menadue/pico/ajm-no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/sd_card.h \
- /home/menadue/pico/ajm-no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/spi.h \
- /home/menadue/pico/pico-sdk/src/rp2_common/hardware_dma/include/hardware/dma.h \
- /home/menadue/pico/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/dma.h \
- /home/menadue/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/dma.h \
- /home/menadue/pico/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/dma_debug.h \
- /home/menadue/pico/pico-sdk/src/rp2_common/hardware_spi/include/hardware/spi.h \
- /home/menadue/pico/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/spi.h \
- /home/menadue/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/spi.h \
- /home/menadue/pico/ajm-no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/include/rtc.h \
- /usr/arm-none-eabi/include/time.h \
- /usr/arm-none-eabi/include/machine/time.h \
- /usr/arm-none-eabi/include/sys/types.h \
- /usr/arm-none-eabi/include/machine/endian.h \
- /usr/arm-none-eabi/include/machine/_endian.h \
- /usr/arm-none-eabi/include/sys/select.h \
- /usr/arm-none-eabi/include/sys/_sigset.h \
- /usr/arm-none-eabi/include/sys/_timeval.h \
- /usr/arm-none-eabi/include/sys/timespec.h \
- /usr/arm-none-eabi/include/sys/_timespec.h \
- /usr/arm-none-eabi/include/sys/_pthreadtypes.h \
- /usr/arm-none-eabi/include/sys/sched.h \
- /usr/arm-none-eabi/include/machine/types.h \
- /home/menadue/pico/pico-sdk/src/rp2_common/hardware_rtc/include/hardware/rtc.h \
- /home/menadue/pico/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/rtc.h \
- /home/menadue/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/rtc.h \
- /home/menadue/pico/pico-sdk/src/common/pico_util/include/pico/util/datetime.h \
- /usr/arm-none-eabi/include/sys/time.h \
- /usr/arm-none-eabi/include/machine/_time.h \
- /home/menadue/pico/ajm-no-OS-FatFS-SD-SPI-RPi-Pico/FatFs_SPI/sd_driver/sd_card.h
+ /home/menadue/pico/pico-sdk/src/rp2_common/pico_flash/include/pico/flash.h
